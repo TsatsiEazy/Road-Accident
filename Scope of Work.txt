@@ -1,0 +1,36 @@
+Data has been downloaded from Caggle website.
+- demo data
+
+
+Concepts to be covered:
+  Data Cleaning
+  Data Processing
+	-applying some formulas, building customised columns used for visualizations
+  Data Analysis
+	-using aggregation data, build different views
+  Data Visualization
+	-build custom charts, use formattings
+  Dashboard/Report
+	-final output
+	-dynamic
+
+Requirements
+	Client wants us to create a Road Accident Dashboard for the years 2021 and 2022 so they have insights on the following:
+	1.Total Casualties taken place after the accidents (Primary Key Performance Indicator)
+	2.Total casualties and percentage of total with respect to accident severity and maximum casualties by type of vehicle (Primary Key Performance Indicators)
+	3.Total casualties with respect to vehicle type (Secondary Key Performance Indicators)
+	4.Monthly trend showing comparison of casualties for Current Year (2022) and Previous Year (2021)
+	5.Maximum casualties by Road Type
+	6.Distribution of total casualties by Road Surface
+	7.Relation between Casualties by Area/Location and by Day/Night.
+
+Stakeholders Involved
+	-Ministry of Transport
+	-Road and Transport Department
+	-Police Force
+	-Emergency Services Department
+	-Road and Safety Corperations
+	-Transport Operators
+	-Traffic Management Agencies
+	-Public
+	-Media
